@@ -1,3 +1,4 @@
+<httpRuntime maxRequestLength="10000" />
 {
   "products": [
     { 
