@@ -230,31 +230,6 @@
     "description":"", 
     "source": 
       "https://www.farfetch.com/shopping/men/off-white-arrow-pendant-necklace-item-16049174.aspx?storeid=9473" 
-  }, 
-  { 
-    "id": 22, 
-    "brand": "VIVIENNE WESTWOOD", 
-    "name": "Mini bas relief pendant gunmetal", 
-    "image": 
-      "https://www.viviennewestwood.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-23/default/dw9d3e64f6/images/zoom/63020086S108_S108_1.jpg?sw=702&sh=812&sm=fit&strip=false", 
-    "price": "$131", 
-    "description":"", 
-    "source": 
-      "https://www.viviennewestwood.com/en/women/jewellery/necklaces/mini-bas-relief-pendant-gunmetal-ruthenium-black-diamond-63020086S108S108.html" 
-  }, 
-  { 
-    "id": 23, 
-    "brand": "RAY-BAN", 
-    "name": "Hexagonal Flat sunglasses", 
-    "image": 
-      "https://cdn-images.farfetch-contents.com/13/34/16/66/13341666_15711337_1000.jpg", 
-    "price": "$153", 
-    "description":"", 
-    "source": 
-      "https://www.farfetch.com/shopping/men/ray-ban-hexagonal-flat-sunglasses-item-13341666.aspx?storeid=12197" 
   }
-  ], 
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
