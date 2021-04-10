@@ -1,4 +1,3 @@
-<httpRuntime maxRequestLength="10000" />
 {
   "products": [
     { 
@@ -176,28 +175,6 @@
     "description":"", 
     "source": 
       "https://www.farfetch.com/shopping/men/nudie-jeans-lean-dean-mono-slim-leg-jeans-item-14896942.aspx?storeid=9359" 
-  },
- { 
-    "id": 17, 
-    "brand": "JORDAN", 
-    "name": "Air Jordan 1 Mid sneakers", 
-    "image": 
-      "https://cdn-images.farfetch-contents.com/16/01/31/37/16013137_30142287_1000.jpg", 
-    "price": "$200", 
-    "description":"", 
-    "source": 
-      "https://www.farfetch.com/shopping/men/jordan-air-jordan-1-mid-sneakers-item-16013137.aspx?storeid=11218" 
-  }, 
-  { 
-    "id": 18, 
-    "brand": "JORDAN", 
-    "name": "Air Jordan 1 Retro High OG Top 3", 
-    "image": 
-      "https://cdn-images.farfetch-contents.com/12/95/99/09/12959909_27458911_1000.jpg", 
-    "price": "$925", 
-    "description":"", 
-    "source": 
-      "https://www.farfetch.com/shopping/men/jordan-air-jordan-1-retro-high-og-top-3-item-12959909.aspx?storeid=11218" 
   }
   ]
 }
