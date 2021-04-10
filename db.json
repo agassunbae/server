@@ -1,60 +1,16 @@
 {
   "products": [
     { 
-    id: 1, 
-    brand: "ALESSANDRA RICH", 
-    name: "Macrame trimmed polka-dot silk crepe de chine midi dress", 
-    image: 
+    "id": 1, 
+    "brand": "ALESSANDRA RICH", 
+    "name": "Macrame trimmed polka-dot silk crepe de chine midi dress", 
+    "image": 
       "https://cache.net-a-porter.com/images/products/1320963/1320963_in_1365_q80.jpg", 
-    price: "$1,960", 
-    description:"Alessandra Rich has been championing big collars since the very beginning, making her dresses even more covetable now than ever before. Part of the Spring '21 'Euphoria' collection, this midi style has been been made in Italy from polka-dot silk crepe de chine and is trimmed with pretty macramé. Echo the brand's vintage-inspired styling by belting it at the waist and accessorizing with a crystal brooch.", 
-    source: 
+    "price": "$1,960", 
+    "description":"Alessandra Rich has been championing big collars since the very beginning, making her dresses even more covetable now than ever before. Part of the Spring '21 'Euphoria' collection, this midi style has been been made in Italy from polka-dot silk crepe de chine and is trimmed with pretty macramé. Echo the brand's vintage-inspired styling by belting it at the waist and accessorizing with a crystal brooch.", 
+    "source": 
       "https://www.net-a-porter.com/en-kz/shop/product/alessandra-rich/macrame-trimmed-polka-dot-silk-crepe-de-chine-midi-dress/1320963" 
-  }, 
-  { 
-    id: 2, 
-    brand: "JACQUEMUS", 
-    name: "Foglio off-the-shoulder gathered linen-blend mini dress", 
-    image: 
-      "https://cache.net-a-porter.com/images/products/1304549/1304549_in_1365_q80.jpg", 
-    price: "$660", 
-    description:"'The color palette remains soft and earthy,' says Simon Porte Jacquemus of the Spring '21 collection, L' Amour - it's influenced by the pottery, ceramics or tiles that can be found around his house. Cut for a close fit, this sage-green mini dress is woven with breathable linen that's been chosen for its natural fibers and slightly lower environmental impact. It's draped and gathered in a way that mimics the art of undressing.", 
-    source: 
-      "https://www.net-a-porter.com/en-us/shop/product/jacquemus/foglio-off-the-shoulder-gathered-linen-blend-mini-dress/1304549" 
-  }, 
-  { 
-    id: 3, 
-    brand: "MAX MARA", 
-    name: "Leisure Alessio washed-satin midi skirt", 
-    image: 
-      "https://cache.net-a-porter.com/images/products/1311317/1311317_in_1365_q80.jpg", 
-    price: "$240", 
-    description:"Max Mara's design team knows exactly how to create timeless clothes using beautiful materials. From the 'Leisure' collection, this slip skirt is cut from lustrous washed-satin and falls to a midi length. Wear yours with a slinky camisole, or a T-shirt on more casual days.", 
-    source: 
-      "https://www.net-a-porter.com/en-us/shop/product/max-mara/leisure-alessio-washed-satin-midi-skirt/1311317" 
-  }, 
-  { 
-    id: 4, 
-    brand: "CULT GAIA", 
-    name: "Joey open-back chain-embellished linen-blend top", 
-    image: 
-      "https://cache.net-a-porter.com/images/products/1316796/1316796_in_1365_q80.jpg", 
-    price: "$280", 
-    description:"Cult Gaia's 'Joey' top looks simple from the front, but turns to reveal gold-tone, jewelry-inspired chain straps that elegantly criss-cross at the back. It's cut from off-white linen-blend and has a cropped hem that pairs nicely with high-rise pants or skirts.", 
-    source: 
-      "https://www.net-a-porter.com/en-kz/shop/product/cult-gaia/joey-open-back-chain-embellished-linen-blend-top/1316796" 
-  }, 
-  { 
-    id: 5, 
-    brand: "JEAN PAUL GAULTIER", 
-    name: "Double-breasted jacket", 
-    image: 
-      "https://cdn-images.farfetch-contents.com/14/86/56/70/14865670_24241539_1000.jpg", 
-    price: "$551", 
-    description:"Black cotton double-breasted jacket from Jean Paul Gaultier Pre-Owned featuring peaked lapels, a front button fastening, front pockets, long sleeves and button cuffs. Please be mindful that this piece has led a previous life, and may tell its story through minor imperfection. Purchasing this item continues its narrative, so you can be confident that you’re making a POSITIVELY CONSCIOUS choice for the planet.", 
-    source: 
-      "https://www.farfetch.com/shopping/women/jean-paul-gaultier-pre-owned-double-breasted-jacket-item-14865670.aspx?storeid=9164" 
-  }, 
+  }
   ],
   "profile": {
     "name": "typicode"
