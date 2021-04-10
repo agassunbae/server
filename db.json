@@ -208,17 +208,6 @@
     "description":"", 
     "source": 
       "https://www.farfetch.com/shopping/men/adidas-yeezy-yeezy-500-bone-white-sneakers-item-14407898.aspx?storeid=10932" 
-  }, 
-  { 
-    "id": 20, 
-    "brand": "VALENTINO", 
-    "name": "VLTN-trim combat boots", 
-    "image": 
-      "https://cdn-images.farfetch-contents.com/15/54/63/24/15546324_27870820_1000.jpg", 
-    "price": "$657", 
-    "description":"", 
-    "source": 
-      "https://www.farfetch.com/shopping/men/valentino-garavani-vltn-trim-combat-boots-item-15546324.aspx?storeid=10952" 
   }
   ]
 }
