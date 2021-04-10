@@ -11,7 +11,7 @@
     "source": 
       "https://www.net-a-porter.com/en-kz/shop/product/alessandra-rich/macrame-trimmed-polka-dot-silk-crepe-de-chine-midi-dress/1320963" 
   },
-   { 
+  { 
     "id": 2, 
     "brand": "JACQUEMUS", 
     "name": "Foglio off-the-shoulder gathered linen-blend mini dress", 
@@ -21,7 +21,8 @@
     "description":"'The color palette remains soft and earthy,' says Simon Porte Jacquemus of the Spring '21 collection, L' Amour - it's influenced by the pottery, ceramics or tiles that can be found around his house. Cut for a close fit, this sage-green mini dress is woven with breathable linen that's been chosen for its natural fibers and slightly lower environmental impact. It's draped and gathered in a way that mimics the art of undressing.", 
     "source": 
       "https://www.net-a-porter.com/en-us/shop/product/jacquemus/foglio-off-the-shoulder-gathered-linen-blend-mini-dress/1304549" 
-  }], 
+  }
+  ], 
   "profile": {
     "name": "typicode"
   }
